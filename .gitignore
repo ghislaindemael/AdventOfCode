@@ -6,3 +6,6 @@ node_modules
 package.json
 package-lock.json
 .run
+target
+Cargo.toml
+Cargo.lock
