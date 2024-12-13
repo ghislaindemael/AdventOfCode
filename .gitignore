@@ -9,3 +9,7 @@ package-lock.json
 target
 Cargo.toml
 Cargo.lock
+conan_provider.cmake
+conandata.yml
+conanfile.py
+vcpkg.json
